@@ -58,7 +58,7 @@ const Navbar = () => {
           
         </nav>
 
-        {/* Icons */}
+        {/* Icons chhota don */}
         <div className="flex justify-items-start gap-4">
           {/* Dark Mode Toggle */}
           <button onClick={toggleDarkMode} className="text-gray-700 dark:text-white">
